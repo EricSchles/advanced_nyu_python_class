@@ -7,3 +7,4 @@
 * Review of Python Language
 	* [https://wiki.python.org/moin/SimplePrograms](https://wiki.python.org/moin/SimplePrograms)
 * Review of Flask
+	* [https://flask-migrate.readthedocs.io/en/latest/](https://flask-migrate.readthedocs.io/en/latest/)
