@@ -14,9 +14,25 @@ Write a github api.
 
 This will be a Flask-App that you deploy.  The api should support:
 
-* git pull
+* git pull - pull only pulls the last record.
 * git push
 
+Make sure you deploy this code: https://devcenter.heroku.com/articles/getting-started-with-python#introduction -- docs
+
+In order to test your routes please use requests.  
+
+Specifically use requests.get for pull and requests.post for push.
+
+This is demo code that should work:
+
+```
+>>> import requests
+>>> requests.post("http://localhost:5000/push/'this is the code that Im uploading'")
+'success'
+>>> requests.get("http://localhost:5000/pull")
+this is the code that Im uploading
+>>> 
+```
 This will allow you to download and upload all code for the current project, via a restful api.  
 
 Note:  All code *must* be version controlled.  So you will have to be able to support pulling down a specific commit in your history as well as resetting the head to some other point in the past.  You don't need to support these functions in week one, but you should write your code in such a way that it is easy to extend to this case, which you will be doing in week 3.
