@@ -6,6 +6,7 @@
 # }
 # code for this psuedo code below
 
+
 class DoublyLinkedNode:
     def __init__(self, data, next=None, prev=None):
         self.data = data
@@ -20,6 +21,7 @@ class DoublyLinkedNode:
 #      DoublyLinkedNode lastNode    // points to last node of list
 # }
 # code for this psuedo code below
+
 
 class DoublyLinkedList:
     def __init__(self):
@@ -47,5 +49,3 @@ class DoublyLinkedList:
             new_node.next = node.next
             node.next.prev = new_node
         node.next = new_node
-
-    

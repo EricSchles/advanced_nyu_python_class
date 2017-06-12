@@ -1,0 +1,9 @@
+class MultiplyLinkedList:
+    def __init__(self, name, department, dob,
+                 next_name=None, next_department=None, next_dob=None):
+        self.name = name
+        self.department = department
+        self.dob = dob
+        self.next_name = next_name
+        self.next_department = next_department
+        self.next_dob = next_dob
