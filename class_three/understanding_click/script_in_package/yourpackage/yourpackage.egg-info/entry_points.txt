@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        yourscript=yourpackage.scripts.yourscript:cli
+    
