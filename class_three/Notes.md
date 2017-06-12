@@ -1,4 +1,10 @@
-# A list about lists
+# Class 3 Notes
+
+## Click - CLI
+
+[http://click.pocoo.org/5/](http://click.pocoo.org/5/)
+
+## A list about lists
 
 
 * [https://en.wikipedia.org/wiki/List_of_data_structures](https://en.wikipedia.org/wiki/List_of_data_structures#Lists)
