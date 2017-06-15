@@ -1,10 +1,9 @@
 def print_formatted(number):
-    w = len(str(bin(number)[2:]))
-    for i in range(1,number+1):
-        d = str(i)
-        o = str(int(oct(i)))
-        h = str(hex(i)[2:]).upper()
-        b = str(bin(i)[2:])
-        print(d.rjust(w) + o.rjust(w+1) + h.rjust(w+1) + b.rjust(w+1))
-
+    binary_width = len(str(bin(number)[2:]))
+    for index in range(1, number+1):
+        decimal_rep = str(index)
+        octal_rep = str(int(oct(index)))
+        hex_rep = str(hex(index)[2:].upper())
+        binary_rep = str(bin(index)[2:])
+        print(decimal_rep.rjust(binary_width) + octal_rep.rjust(binary_width+1) + hex_rep.rjust(binary_width+1) + binary_rep.rjust(binary_width+1))
 
