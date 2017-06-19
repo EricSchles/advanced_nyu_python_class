@@ -14,6 +14,11 @@ Assignment:
 
 2. Head over to [Arrays](https://www.hackerrank.com/domains/data-structures/arrays). Do all the exercises in the section.  
 
+3. Head over to [linked lists](https://www.hackerrank.com/domains/data-structures/linked-lists).  Do all the exercises in the section.
+
+4. Head over to [Stacks](https://www.hackerrank.com/domains/data-structures/stacks).  Do all the exercises in the section.
+
+5. Head over to [queues](https://www.hackerrank.com/domains/data-structures/queues). Do all the exercises in the section.
 
 *Reminder*: 
 
