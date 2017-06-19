@@ -1,0 +1,8 @@
+from class_interface import ListInterface
+
+class List(ListInterface):
+    def __init__(self):
+        self._internal_list = []
+
+    def sort(self):
+        self.
