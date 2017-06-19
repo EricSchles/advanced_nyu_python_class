@@ -41,10 +41,10 @@ Week 2:
 
 Write a commandline interface that supports the following four functions:
 
-* git add
-* git commit
-* git pull
-* git push
+* git add file_name
+* git commit -m "message"
+* git pull (writes all files from the database to the current directory)
+* git push (pushes up the file_name, specified in add to the server, and the message)
 
 The cli(commandline interface) will be how users interact with your deployed api.
 
@@ -52,6 +52,7 @@ Week 3:
 
 * Allow for pulling down specific versions of the code base.  Also allow for resetting the head of your code base to the current version of the code.
 
+(you'll need incrementing on the database here)
 * allow for multiple branches of your code base.
 
 * implementing differencing between branches.
