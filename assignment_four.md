@@ -18,8 +18,6 @@ Assignment:
 
 4. Head over to [Balanced Trees](https://www.hackerrank.com/challenges/self-balancing-tree).  There is only one problem easy enough to do in this section, all others are too hard.
 
-5. Head over to [Heap](https://www.hackerrank.com/domains/data-structures/heap). Do all the exercises marked easy.
-
 *Reminder*: 
 
 Once you've completed each exercise, take a screenshot of the exercise and store it in a folder.  Zip the folder and email it to me on the due date.
