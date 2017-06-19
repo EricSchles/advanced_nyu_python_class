@@ -12,19 +12,13 @@ Assignment:
 
 1. Head over to [Algorithms WarmUp](https://www.hackerrank.com/domains/algorithms/warmup).  Do all the exercises in the section.
 
-2. Head over to [linked lists](https://www.hackerrank.com/domains/data-structures/linked-lists).  Do all the exercises in the section.
+2. Head over to [Strings](https://www.hackerrank.com/domains/algorithms/strings). Do all the exercises marked easy.  All other problems are too hard and should not be attempted yet.  
 
-3. Head over to [Stacks](https://www.hackerrank.com/domains/data-structures/stacks).  Do all the exercises in the section.
+3. Head over to [Trees](https://www.hackerrank.com/domains/data-structures/trees).  Do all the exercises marked easy.  All other problems are too hard and should not be attempted yet.
 
-4. Head over to [queues](https://www.hackerrank.com/domains/data-structures/queues). Do all the exercises in the section.
+4. Head over to [Balanced Trees](https://www.hackerrank.com/challenges/self-balancing-tree).  There is only one problem easy enough to do in this section, all others are too hard.
 
-5. Head over to [Strings](https://www.hackerrank.com/domains/algorithms/strings). Do all the exercises marked easy.  All other problems are too hard and should not be attempted yet.  
-
-6. Head over to [Trees](https://www.hackerrank.com/domains/data-structures/trees).  Do all the exercises marked easy.  All other problems are too hard and should not be attempted yet.
-
-7. Head over to [Balanced Trees](https://www.hackerrank.com/challenges/self-balancing-tree).  There is only one problem easy enough to do in this section, all others are too hard.
-
-8. Head over to [Heap](https://www.hackerrank.com/domains/data-structures/heap). Do all the exercises marked easy.
+5. Head over to [Heap](https://www.hackerrank.com/domains/data-structures/heap). Do all the exercises marked easy.
 
 *Reminder*: 
 
